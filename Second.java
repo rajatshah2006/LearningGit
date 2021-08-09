@@ -7,6 +7,7 @@ public  class Second{
     }
     public  static  void new_func_master(){
 
+        System.out.println("Now i am in new Func Master");
 
     }
 
